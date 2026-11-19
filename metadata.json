@@ -1,0 +1,7 @@
+{
+  "name": "حدس کلمه",
+  "description": "بازی جذاب و سرگرم‌کننده حدس کلمات فارسی با مراحل متنوع، مراحل روزانه، جدول کلمات و جوایز هیجان‌انگیز",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
